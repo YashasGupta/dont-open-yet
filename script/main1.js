@@ -2,7 +2,7 @@
 // Birthday Countdown Lock
 // =======================
 window.addEventListener("load", () => {
-  const targetDate = new Date("May 18, 2026 00:00:00").getTime();
+  const targetDate = new Date("May 17, 2026 00:00:00").getTime();
   const now = new Date().getTime();
 
   if (now < targetDate) {
