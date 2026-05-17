@@ -86,10 +86,10 @@ document.addEventListener("DOMContentLoaded", function () {
     "July","August","September","October","November","December"
   ];
 
-  const targetDay = 24;
-  const targetMonthIndex = 9; // October
-  const targetYear = 2025;
-  const birthYear = 2011;
+  const targetDay = 18;
+  const targetMonthIndex = 4; // October
+  const targetYear = 2026;
+  const birthYear = 2008;
 
   let currentDay = 1;
   let currentMonthIndex = 0;
